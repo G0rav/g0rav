@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I am
+
+# Gaurav Jain
+
+A curious Engineering enthusiast having Goal to contribute in **Humanity and Mankind**.
 
 <!--
 **G0rav/g0rav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on:  [Automatic Background Remover Project](https://github.com/G0rav/Automatic_Background_Remover)
+- 🌱 I’m currently learning:  Machine Learning model deployment.
+- 💬 Ask me about:  Data Science, Machine Learning, Deep Learning, Stock Market.
+- 📫 How to reach me:   [g.jain86078@gmail.com](mailto:g.jain86078@gmail.com)
