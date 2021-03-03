@@ -1,4 +1,4 @@
- <img src="https://github.com/G0rav/g0rav/blob/main/assets/Name.png" alt="Linkedin image">
+ <img src="https://github.com/G0rav/g0rav/blob/main/assets/Name1.png" alt="Linkedin image">
  
 
 A curious Engineering enthusiast having Goal to contribute in **Humanity and Mankind**.
