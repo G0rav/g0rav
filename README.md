@@ -1,6 +1,5 @@
-### Hi there 👋 I am
-
-# Gaurav Jain
+ <img src="https://github.com/G0rav/g0rav/blob/main/assets/Name.png" alt="Linkedin image">
+ 
 
 A curious Engineering enthusiast having Goal to contribute in **Humanity and Mankind**.
 
@@ -38,4 +37,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on:  [Automatic Background Remover Project](https://github.com/G0rav/Automatic_Background_Remover)
 - 🌱 I’m currently learning:  Machine Learning model deployment.
 - 💬 Ask me about:  Data Science, Machine Learning, Deep Learning, Stock Market.
-- 📫 How to reach me:   [g.jain86078@gmail.com](mailto:g.jain86078@gmail.com)
+- 📫 You can reach me at:   [g.jain86078@gmail.com](mailto:g.jain86078@gmail.com)
