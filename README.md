@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 - 📫 You can reach me at:   [g.jain86078@gmail.com](mailto:g.jain86078@gmail.com)
 
 ## Projects Completed:
-- [Automatic Potrait Mode](https://perfect-potrait.herokuapp.com/)
+- [Automatic Background Removal](https://perfect-potrait.herokuapp.com/)
