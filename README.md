@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on:  [Automatic Potrait Mode](-potrait.herokuapp.com)
+- 🔭 I’m currently working on:  [Automatic Potrait Mode](https://perfect-potrait.herokuapp.com/)
 - 🌱 I’m currently learning:  Machine Learning model deployment.
 - 💬 Ask me about:  Data Science, Machine Learning, Deep Learning, Stock Market.
 - 📫 You can reach me at:   [g.jain86078@gmail.com](mailto:g.jain86078@gmail.com)
