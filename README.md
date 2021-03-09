@@ -40,4 +40,13 @@ Here are some ideas to get you started:
 - 📫 You can reach me at:   [g.jain86078@gmail.com](mailto:g.jain86078@gmail.com)
 
 ## Projects Completed:
-- [Automatic Background Removal](https://perfect-potrait.herokuapp.com/)
+
+| Machine/Deep Learning | Automation/Web Scrapping | Data Insights/Analysis |
+| --------------------- | ------------------------ | ---------------------- |
+| [Automatic Background Removal](https://perfect-potrait.herokuapp.com/)  | [Instagram Bot](https://github.com/G0rav/Instagram_Bot) | [Suicide Rate Analysis](https://github.com/G0rav/Suicide_Rate_Analysis) |
+| [Human Activity Recognition](https://github.com/G0rav/Human_Activity_Recognition) | [Youtube Data Extractor](https://github.com/G0rav/YouTube_data_extractor)  | [PlayStore App Analysis](https://github.com/G0rav/PlayStore_App_Analysis) |
+| [Marketing Strategy](https://github.com/G0rav/Marketing_Strategy) |      |    |
+| [House Rent Prediction](https://github.com/G0rav/House_Rent_Predictor) |  |  |
+
+
+- 
