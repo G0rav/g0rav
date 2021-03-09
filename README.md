@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 | [Human Activity Recognition](https://github.com/G0rav/Human_Activity_Recognition) | [Youtube Data Extractor](https://github.com/G0rav/YouTube_data_extractor)  | [PlayStore App Analysis](https://github.com/G0rav/PlayStore_App_Analysis) |
 | [Marketing Strategy](https://github.com/G0rav/Marketing_Strategy) |      |    |
 | [House Rent Prediction](https://github.com/G0rav/House_Rent_Predictor) |  |  |
+| [Fake News Detection](https://github.com/G0rav/fake_news_detection) |  |  |
 
 
-- 
+
