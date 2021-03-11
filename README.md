@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 | Machine/Deep Learning | Automation/Web Scrapping | Data Insights/Analysis |
 | --------------------- | ------------------------ | ---------------------- |
-| [Automatic Background Removal](https://potrait-me.herokuapp.com/)  | [Instagram Bot](https://github.com/G0rav/Instagram_Bot) | [Suicide Rate Analysis](https://github.com/G0rav/Suicide_Rate_Analysis) |
+| [Automatic Background Removal](https://portrait-me.herokuapp.com/)  | [Instagram Bot](https://github.com/G0rav/Instagram_Bot) | [Suicide Rate Analysis](https://github.com/G0rav/Suicide_Rate_Analysis) |
 | [Human Activity Recognition](https://github.com/G0rav/Human_Activity_Recognition) | [Youtube Data Extractor](https://github.com/G0rav/YouTube_data_extractor)  | [PlayStore App Analysis](https://github.com/G0rav/PlayStore_App_Analysis) |
 | [Marketing Strategy](https://github.com/G0rav/Marketing_Strategy) |      |    |
 | [House Rent Prediction](https://github.com/G0rav/House_Rent_Predictor) |  |  |
