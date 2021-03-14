@@ -50,5 +50,5 @@ Here are some ideas to get you started:
 | [House Rent Prediction](https://github.com/G0rav/House_Rent_Predictor) |  |  |
 | [Fake News Detection](https://github.com/G0rav/fake_news_detection) |  |  |
 
-
-
+<br>
+<img src= 'https://github-readme-stats.vercel.app/api?username=g0rav&show_icons=true'>
