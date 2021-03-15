@@ -1,7 +1,7 @@
  <img src="https://github.com/G0rav/g0rav/blob/main/assets/Title.png" alt="Title image">
  
 
-A curious Engineering enthusiast having Goal to contribute in **Humanity and Mankind**.
+A curious Engineering enthusiast having Goal to contribute in **Humanity and Mankind** using Artificial Intelligence.
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/gaurav2022/">
