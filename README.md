@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 | [Automatic Background Removal](https://portrait-me.herokuapp.com/)  | [Instagram Bot](https://github.com/G0rav/Instagram_Bot) | [Suicide Rate Analysis](https://github.com/G0rav/Suicide_Rate_Analysis) |
 | [Human Activity Recognition](https://github.com/G0rav/Human_Activity_Recognition) | [Youtube Data Extractor](https://github.com/G0rav/YouTube_data_extractor)  | [PlayStore App Analysis](https://github.com/G0rav/PlayStore_App_Analysis) |
 | [Marketing Strategy using Decision Trees](https://github.com/G0rav/Marketing_Strategy) |      |    |
+| [Predict Future Sales](https://github.com/G0rav/Predict_Future_Sales) |  |  |
 | [House Rent Prediction](https://github.com/G0rav/House_Rent_Predictor) |  |  |
 | [Fake News Detection](https://github.com/G0rav/fake_news_detection) |  |  |
 
