@@ -34,11 +34,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on:  **Audio Classification**
+- 🔭 I’m currently working on:  **Image Generation**
 - 🌱 I’m currently learning:  Machine Learning model deployment.
 - 💬 Ask me about:  Data Science, Machine Learning, Deep Learning, Finance and Stock Market.
 - 📫 You can reach me at:   [g.jain86078@gmail.com](mailto:g.jain86078@gmail.com)
 - Resume : [Resume](https://github.com/G0rav/g0rav/blob/main/Gaurav%20Jain%20Resume.pdf)
+- Research Paper : [Springer](https://link.springer.com/article/10.1007/s12524-023-01703-2)
 
 ## Projects Completed:
 
