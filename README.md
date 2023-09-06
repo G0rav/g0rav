@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning:  Machine Learning model deployment.
 - 💬 Ask me about:  Data Science, Machine Learning, Deep Learning, Finance and Stock Market.
 - 📫 You can reach me at:   [g.jain86078@gmail.com](mailto:g.jain86078@gmail.com)
-- Resume : [Resume](https://github.com/G0rav/g0rav/blob/main/Gaurav%20Jain%20Resume.pdf)
+- Resume : [Resume](https://drive.google.com/file/d/1roWI3-jXPiCSoRQEcbXgrVyN64ewivJv/view?usp=drive_link)
 - Research Paper : [Springer](https://link.springer.com/article/10.1007/s12524-023-01703-2)
 
 ## Projects Completed:
