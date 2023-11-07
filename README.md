@@ -4,6 +4,10 @@
 A curious Engineering enthusiast having Goal to contribute in **Humanity and Mankind** using Artificial Intelligence.
 
 <p align='center'>
+ <a href="https://g0rav.github.io/">
+  Website
+<!--     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin image"> -->
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/gaurav2022/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin image">
   </a>&nbsp;&nbsp;
@@ -34,8 +38,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- My Portfolio Website - [g0rav.github.io](https://g0rav.github.io/)
 - 🔭 I’m currently working on:  **Image Generation**
-- 🌱 I’m currently learning:  Machine Learning model deployment.
 - 💬 Ask me about:  Data Science, Machine Learning, Deep Learning, Finance and Stock Market.
 - 📫 You can reach me at:   [g.jain86078@gmail.com](mailto:g.jain86078@gmail.com)
 - Resume : [Resume](https://drive.google.com/file/d/1roWI3-jXPiCSoRQEcbXgrVyN64ewivJv/view?usp=drive_link)
