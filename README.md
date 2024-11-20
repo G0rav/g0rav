@@ -59,3 +59,6 @@ Here are some ideas to get you started:
 
 <br>
 <img src= 'https://github-readme-stats.vercel.app/api?username=g0rav&show_icons=true&theme=algolia&hide=prs,contribs'>
+
+
+<img src="https://ghchart.rshah.org/eazyeditor" alt="gaurav's Github chart" />
