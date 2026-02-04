@@ -19,9 +19,6 @@ A curious Engineering enthusiast having Goal to contribute in **Humanity and Man
   </a>&nbsp;&nbsp;
 </p>
 
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/g0rav/g0rav"></a>
-</p>
 
 <!--
 **G0rav/g0rav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -57,8 +54,3 @@ Here are some ideas to get you started:
 | [House Rent Prediction](https://github.com/G0rav/House_Rent_Predictor) |  |  |
 | [Fake News Detection](https://github.com/G0rav/fake_news_detection) |  |  |
 
-<br>
-<img src= 'https://github-readme-stats.vercel.app/api?username=g0rav&show_icons=true&theme=algolia&hide=prs,contribs'>
-
-
-<img src="https://ghchart.rshah.org/eazyeditor" alt="gaurav's Github chart" />
